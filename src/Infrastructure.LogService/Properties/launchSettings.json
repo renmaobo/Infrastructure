@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Infrastructure.LogService": {
+      "commandName": "Project",
+      "applicationUrl": "http://localhost:5268;https://localhost:7031",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
